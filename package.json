@@ -1,0 +1,23 @@
+{
+  "name": "emberconf-launching-ember-future",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "auto-reveal",
+    "build": "auto-reveal build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "auto-reveal": "github:pichfl/auto-reveal#semi-mega-branch",
+    "auto-reveal-theme-mainmatter": "github:mansona/auto-reveal-theme-mainmatter"
+  },
+  "devDependencies": {
+    "front-matter": "^4.0.2",
+    "layer-gen": "^1.0.0",
+    "layer-gen-blueprint": "^1.0.0"
+  }
+}
