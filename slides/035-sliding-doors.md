@@ -7,7 +7,7 @@ Thing 1: What Embroider is doing
 
 Note:
 
-Let's cut over to another timeline for a second, this time following our antagonist of the story the rest of the JS ecosystem (jk jk). In all this time they were working on finally getting ES6 out the door, and although they didn't fully iron out every part of the spec this is where ES modules were born. 
+Let's cut over to another timeline for a second. While we were deep working on ember-cli tc39 and the wider JS community were working on finally getting ES6 out the door, and although they didn't fully iron out every part of the spec this is where ES modules were born. 
 
 - animate release date of ES6
 
