@@ -1,6 +1,11 @@
 # Embroider Stages - stage 3
 
-- highlighted
+- Stage 1 - rewrite all your addons into v2 
+- Stage 2 - rewrite your app
+- Stage 3 - pass to the packager
+
+Thing 1: What Embroider is doing
+<!-- .element style="position: absolute; bottom: -100px; left: 0; font-size: 60%; color: grey;" -->
 
 Note:
 

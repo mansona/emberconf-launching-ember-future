@@ -1,6 +1,6 @@
-# Launch Ember
+# Launching Ember into the Future
 
-- some launching ember thingy
+![ember future](/ember-to-the-future.png) <!-- .element style="margin-top: 100px" -->
 
 Note:
 

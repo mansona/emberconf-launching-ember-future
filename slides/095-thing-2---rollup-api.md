@@ -1,6 +1,6 @@
 # Thing 2 - Rollup API
 
-- dunce hat?
+![rollup](/rollup.jpeg)
 
 Note:
 

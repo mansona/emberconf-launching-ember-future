@@ -1,10 +1,12 @@
 # Webpack with added Broccoli
 
-- webpack logo
-
-🥦 🫠
+![webpack](/webpack.svg) <!-- .element style="height: 165px;" --> 🥦 🫠
 
 <!-- .element style="font-size: 400%" -->
+
+
+Thing 1: What Embroider is doing
+<!-- .element style="position: absolute; bottom: -100px; left: 0; font-size: 60%; color: grey;" -->
 
 Note:
 

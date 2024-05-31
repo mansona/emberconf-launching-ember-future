@@ -1,12 +1,14 @@
 # Embroider Stages
 
- - stages of embroider
+- Stage 1 - rewrite all your addons into v2 
+
+
+Thing 1: What Embroider is doing
+<!-- .element style="position: absolute; bottom: -100px; left: 0; font-size: 60%; color: grey;" -->
 
 Note:
 
 Enter the 3 stages of an Embroider build
-
-- animate stage 1
 
 Stage 1 - rewrite all your addons into v2 
 

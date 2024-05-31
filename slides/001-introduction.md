@@ -1,8 +1,8 @@
 <!-- .slide: class="introduction blur-background" data-background-image="/workshop.webp" -->
 
-## Modern Ember Addons
+## Launching Ember into the Future
 
-All the things you could do; and new places to put them
+Transforming the Emberisms into modern tooling
 
 Chris Manson - `@real_ate@mastodon.social`
 

@@ -1,6 +1,9 @@
 # Enter Embroider
 
-- screenshot of a timeline or something? Maybe sort of coolaid man crashing gag
+![ember-cli](/embroider-first-release.png) <!-- .element style="margin-top: 50px" -->
+
+Thing 1: What Embroider is doing
+<!-- .element style="position: absolute; bottom: -100px; left: 0; font-size: 60%; color: grey;" -->
 
 Note:
 

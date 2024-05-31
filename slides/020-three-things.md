@@ -1,10 +1,10 @@
 # Three things
 
-- Thing 1: What embroider is doing and why is it so hard
+- Thing 1: What embroider is doing and why is it so hard <!-- .element class="fragment" -->
 
-- Thing 2: How rollup plugins work (and how we're using them)
+- Thing 2: How rollup plugins work (and how we're using them) <!-- .element class="fragment" -->
 
-- Thing 3: What the future build system looks like
+- Thing 3: What the future build system looks like <!-- .element class="fragment" -->
 
 Note:
 

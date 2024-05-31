@@ -1,6 +1,9 @@
 # Madness
 
-- Gif of something frantic
+![frantic plates](/frantic-stacking.webp) <!-- .element style="margin-top: 50px; height: 550px;" -->
+
+Thing 1: What Embroider is doing
+<!-- .element style="position: absolute; bottom: -100px; left: 0; font-size: 60%; color: grey;" -->
 
 Note:
 
